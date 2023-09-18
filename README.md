@@ -4,6 +4,11 @@
 * BSc. in Computer Science from Unesp - Universidade Estadual Paulista "Julio de Mesquita Filho".
 * Specialist in Computer Networks from UFSCar - Universidade Federal de São Carlos.
 
+##
+
+<a href="https://www.instagram.com/cnmodesto" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/cnmodesto" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
 <!--
 **cnmodesto/cnmodesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
